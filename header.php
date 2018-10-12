@@ -6,11 +6,12 @@ session_start();
 <html>
 
 <head>
-	<title></title>
+	<title>Here you get knowledge</title>
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" typer"text/css" href="Style.css">
 </head>
 <body>
-	<a href="Index.php"><img class="logo" src="Title.png" style="width:450px;height:110px;"></a>
+	<a href="Index.php"><img class="logo" src="Title.png"></a>
 <header>
 	<nav>
 
